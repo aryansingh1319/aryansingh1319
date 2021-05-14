@@ -1,4 +1,4 @@
-# [Awesome Hacking](https://github.com/aryansingh1319/Awesome-Hacking) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Hacking%20-%20a%20collection%20of%20awesome%20lists%20for%20hackers%20and%20pentesters%20by%20@HackwithGithub&url=https://github.com/Hack-with-Github/Awesome-Hacking&hashtags=security,hacking)
+# [Awesome Hacking](https://github.com/aryansingh1319/Awesome-Hacking) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Hacking%20-%20a%20collection%20of%20awesome%20lists%20for%20hackers%20and%20pentesters%20by%20@HackwithGithub&url=https://github.com/aryansingh1319/Awesome-Hacking&hashtags=security,hacking)
 
 **A collection of awesome lists for hackers, pentesters & security researchers.**
 
@@ -89,8 +89,8 @@ Repository | Description
 ## Need more ?
 
 Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
- - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
- - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
+ - Twitter : [@HackwithGithub](https://twitter.com/digitalaryan)
+ - Facebook : [HackwithGithub](https://www.facebook.com/digitalaryann)
 
 ## Contributions
 
